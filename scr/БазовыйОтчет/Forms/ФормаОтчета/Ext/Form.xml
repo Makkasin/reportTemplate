@@ -132,6 +132,18 @@
 					<ContextMenu name="ПолеСуммыКонтекстноеМеню" id="118"/>
 					<ExtendedTooltip name="ПолеСуммыРасширеннаяПодсказка" id="119"/>
 				</InputField>
+				<LabelField name="ПолеСтрок" id="127">
+					<DataPath>ПолеСтрок</DataPath>
+					<TitleLocation>None</TitleLocation>
+					<AutoMaxWidth>false</AutoMaxWidth>
+					<MaxWidth>7</MaxWidth>
+					<HorizontalStretch>false</HorizontalStretch>
+					<Border width="1">
+						<v8ui:style xsi:type="v8ui:ControlBorderType">Single</v8ui:style>
+					</Border>
+					<ContextMenu name="ПолеСтрокКонтекстноеМеню" id="128"/>
+					<ExtendedTooltip name="ПолеСтрокРасширеннаяПодсказка" id="129"/>
+				</LabelField>
 				<InputField name="ПоискСтрока" id="120">
 					<DataPath>ПоискСтрока</DataPath>
 					<Title>
@@ -592,6 +604,21 @@
 				<v8:Type>xs:string</v8:Type>
 				<v8:StringQualifiers>
 					<v8:Length>77</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ПолеСтрок" id="7">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Поле кол строк</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>11</v8:Length>
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
