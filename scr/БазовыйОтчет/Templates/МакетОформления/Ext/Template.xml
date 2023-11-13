@@ -1100,7 +1100,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветФона</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#F0F6EF</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">web:NavajoWhite</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>ЦветТекста</dcscor:parameter>
@@ -1156,7 +1156,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#ACC8BD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">#000000</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>СтильГраницы</dcscor:parameter>
@@ -1254,7 +1254,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#ACC8BD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">#000000</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>СтильГраницы</dcscor:parameter>
@@ -1269,7 +1269,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветФона</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#E4F0DD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">web:Wheat</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>ЦветТекста</dcscor:parameter>
@@ -1323,7 +1323,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветФона</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#F0F6EF</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">web:BlanchedAlmond</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
@@ -1352,7 +1352,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#ACC8BD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">#000000</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>СтильГраницы</dcscor:parameter>
@@ -1654,7 +1654,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#ACC8BD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">#000000</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>СтильГраницы</dcscor:parameter>
@@ -1752,7 +1752,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#ACC8BD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">#000000</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>СтильГраницы</dcscor:parameter>
@@ -1773,7 +1773,7 @@
 				<appearance>
 					<dcscor:item>
 						<dcscor:parameter>ЦветГраницы</dcscor:parameter>
-						<dcscor:value xsi:type="v8ui:Color">#ACC8BD</dcscor:value>
+						<dcscor:value xsi:type="v8ui:Color">#000000</dcscor:value>
 					</dcscor:item>
 					<dcscor:item>
 						<dcscor:parameter>СтильГраницы</dcscor:parameter>
